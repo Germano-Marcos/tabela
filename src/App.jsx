@@ -4,7 +4,7 @@ import './App.css'
 // 4 - custom hook
 import { useFetch } from "./hooks/useFetch";
 
-const url = "http://localhost:3000/products"
+const url = "http://18.231.106.218:3000/products"
 
 function App() {
   const [products, setProducts] = useState([])
