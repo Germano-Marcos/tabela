@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "07f5",
+      "name": "Capa de chuva",
+      "price": "50.50"
+    },
+    {
+      "id": "6845",
+      "name": "Cadeira",
+      "price": "50"
+    },
+    {
+      "id": "729c",
+      "name": "Mesa",
+      "price": "150"
+    },
+    {
+      "id": "453d",
+      "name": "Quadro",
+      "price": "450"
+    },
+    {
+      "id": "3952",
+      "name": "Lápis",
+      "price": "12.00"
+    },
+    {
+      "id": "20fa",
+      "name": "Caneta",
+      "price": "2.45"
+    },
+    {
+      "id": "cdab",
+      "name": "teste",
+      "price": "3"
+    }
+  ]
+}
